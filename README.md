@@ -1,7 +1,7 @@
 Hi there 👋 
 
-- 🌱 I’m currently learning Web development
-- 👯 I’m looking to collaborate on Web development Projects
+- 🌱 I’m currently learning Data Analytics
+- 👯 I’m looking to collaborate on Data Analytics Projects
 - 🤔 I’m looking for Internship
 - 💬 Ask me about anything
 - 📫 How to reach me: akshithsaaimanchikanti@gmail.com...
