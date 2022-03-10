@@ -1,6 +1,6 @@
-Hi there 👋 
+Hi there 👋 This is Akshith Saai.
 
-- 🌱 I’m a sophomore student at [National Institute of Technology, Warangal.] (https://nitw.ac.in/)
+- 🌱 I’m a sophomore student at <a href="https://nitw.ac.in/">National Institute of Technology, Warangal</a>
 - 👯 I’m enthusiastic about WebDev.
 - 🤔 I’m looking for Internship.
 - 💬 Ask me about anything
