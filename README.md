@@ -6,4 +6,4 @@ Hi there 👋 This is Akshith Saai.
 - 💬 Text me <a href="https://www.instagram.com/akshithsaai_003/">@akshithsaai_003</a>
 - 📫 <a href = "mailto: akshithsaaimanchikanti@gmail.com">Mail me</a>
 - 😄 Pronouns: Him/They/Them
-- ⚡ Fun fact: I love Table tennis and football
+- ⚡ Fun fact: I love Football ⚽ and Photography 📷
