@@ -7,5 +7,5 @@ Hi there 👋 This is Akshith Saai.
 - 📫 <a href = "mailto: akshithsaaimanchikanti@gmail.com">Mail me</a>
 - 😄 Pronouns: Him/They/Them
 - ⚡ Fun fact: I love Football ⚽ and Photography 📷 .
-- ⚡ Fact : I Use Terminal ![image](https://user-images.githubusercontent.com/76246437/168801361-cd5830be-12af-40af-be76-3c2cd6b21e91.png)
+
 
