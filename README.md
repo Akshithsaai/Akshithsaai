@@ -5,7 +5,7 @@ Hi there 👋 This is Akshith Saai.
 - 🤔 I’m looking for Internship.
 - 💬 Text me <a href="https://www.instagram.com/akshithsaai_003/">@akshithsaai_003</a>
 - 📫 <a href = "mailto: akshithsaaimanchikanti@gmail.com">Mail me</a>
-- 😄 Pronouns: Him/They/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Football ⚽ and Photography 📷 .
 
 
