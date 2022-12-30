@@ -8,4 +8,4 @@ Hi there 👋 This is Akshith Saai.
 - ⚡ Fun fact: I love Football ⚽ and Photography 📷 .
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Akshithsaai)](https://git.io/streak-stats)
+
