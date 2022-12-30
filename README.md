@@ -9,3 +9,4 @@ Hi there 👋 This is Akshith Saai.
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshithsaai)](https://github.com/anuraghazra/github-readme-stats)
