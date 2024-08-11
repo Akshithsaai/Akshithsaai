@@ -6,8 +6,4 @@ Hi there 👋 This is Akshith Saai.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Football ⚽ and Photography 📷 .
 
-
-
-[!(https://github-readme-stats.vercel.app/api?username=Akshithsaai&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)]
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
