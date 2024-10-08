@@ -1,3 +1,8 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Akshithsaai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 Hi there 👋 This is Akshith Saai.
 
 - 🌱 I’m a final year student at <a href="https://nitw.ac.in/">National Institute of Technology, Warangal</a>
