@@ -40,9 +40,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshithsaai&theme=blue_green&utcOffset=8)
 <br/>
 
-<!--## 🏆 GitHub Trophies-->
+## 🏆 GitHub Trophies
 
-<!--![](https://github-profile-trophy.vercel.app/?username=Akshithsaai&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)-->
+![](https://github-profile-trophy.vercel.app/?username=Akshithsaai&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4) 
 
 ### ✍️ Random Dev Quote
 
