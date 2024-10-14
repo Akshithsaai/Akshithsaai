@@ -51,3 +51,7 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=AkshithSaai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 📈 Contribution History 
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Akshithsaai&theme=merko)
