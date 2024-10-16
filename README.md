@@ -55,3 +55,7 @@
 ### 📈 Contribution History 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Akshithsaai&theme=merko)
+
+### 🏅 Badges
+
+[![An image of @akshithsaai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshithsaai)](https://holopin.io/@akshithsaai)
