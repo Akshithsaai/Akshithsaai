@@ -30,14 +30,14 @@
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  
- # 📊 GitHub Stats:
-
+ # 📊 GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api?username=Akshithsaai&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshithsaai&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akshithsaai&theme=blue-green&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshithsaai&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshithsaai&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshithsaai&theme=blue_green&utcOffset=5.3)
+
 <br/>
 
 ## 🏆 GitHub Trophies
@@ -69,7 +69,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />  -->
 </div>
